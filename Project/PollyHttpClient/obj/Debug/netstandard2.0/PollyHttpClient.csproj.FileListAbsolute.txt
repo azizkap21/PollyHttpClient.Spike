@@ -1,0 +1,9 @@
+E:\MyProjects\PollyHttpClient\PollyHttpClient\bin\Debug\netstandard2.0\PollyHttpClient.deps.json
+E:\MyProjects\PollyHttpClient\PollyHttpClient\bin\Debug\netstandard2.0\PollyHttpClient.dll
+E:\MyProjects\PollyHttpClient\PollyHttpClient\obj\Debug\netstandard2.0\PollyHttpClient.csprojAssemblyReference.cache
+E:\MyProjects\PollyHttpClient\PollyHttpClient\obj\Debug\netstandard2.0\PollyHttpClient.csproj.CoreCompileInputs.cache
+E:\MyProjects\PollyHttpClient\PollyHttpClient\obj\Debug\netstandard2.0\PollyHttpClient.AssemblyInfoInputs.cache
+E:\MyProjects\PollyHttpClient\PollyHttpClient\obj\Debug\netstandard2.0\PollyHttpClient.AssemblyInfo.cs
+E:\MyProjects\PollyHttpClient\PollyHttpClient\bin\Debug\netstandard2.0\PollyHttpClient.pdb
+E:\MyProjects\PollyHttpClient\PollyHttpClient\obj\Debug\netstandard2.0\PollyHttpClient.dll
+E:\MyProjects\PollyHttpClient\PollyHttpClient\obj\Debug\netstandard2.0\PollyHttpClient.pdb

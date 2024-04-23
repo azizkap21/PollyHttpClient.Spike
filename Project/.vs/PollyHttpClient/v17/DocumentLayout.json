@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyProjects\\PollyHttpClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|e:\\myprojects\\pollyhttpclient\\fragilewebsite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|solutionrelative:fragilewebsite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|e:\\myprojects\\pollyhttpclient\\fragilewebsite\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|solutionrelative:fragilewebsite\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|e:\\myprojects\\pollyhttpclient\\fragilewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|solutionrelative:fragilewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient\\FragileWebsite\\Startup.cs",
+              "RelativeDocumentMoniker": "FragileWebsite\\Startup.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient\\FragileWebsite\\Startup.cs",
+              "RelativeToolTip": "FragileWebsite\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:38:01.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient\\FragileWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "FragileWebsite\\Program.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient\\FragileWebsite\\Program.cs",
+              "RelativeToolTip": "FragileWebsite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:37:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient\\FragileWebsite\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "FragileWebsite\\Controllers\\ValuesController.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient\\FragileWebsite\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "FragileWebsite\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIApwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:37:28.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

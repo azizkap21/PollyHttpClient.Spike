@@ -1,0 +1,15 @@
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\net47\Poq.Api.Utility.Http.csprojAssemblyReference.cache
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\net47\Poq.Api.Utility.Http.csproj.CoreCompileInputs.cache
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\net47\Poq.Api.Utility.Http.AssemblyInfoInputs.cache
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\net47\Poq.Api.Utility.Http.AssemblyInfo.cs
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\net47\Poq.Api.Utility.Http.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\net47\Poq.Api.Utility.Http.pdb
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\net47\JetBrains.Annotations.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\net47\Microsoft.ApplicationInsights.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\net47\Newtonsoft.Json.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\net47\Poq.Api.Utility.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\net47\Poq.Api.Utility.Log.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\net47\System.Diagnostics.DiagnosticSource.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\net47\Poq.Api.Utility.Http.csproj.CopyComplete
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\net47\Poq.Api.Utility.Http.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\net47\Poq.Api.Utility.Http.pdb

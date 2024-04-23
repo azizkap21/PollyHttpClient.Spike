@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MyProjects\\PollyHttpClient\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj": {}
+  },
+  "projects": {
+    "E:\\MyProjects\\PollyHttpClient\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyProjects\\PollyHttpClient\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj",
+        "projectName": "Poq.Api.Utility.Http",
+        "projectPath": "E:\\MyProjects\\PollyHttpClient\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj",
+        "packagesPath": "C:\\Users\\azizk\\.nuget\\packages\\",
+        "outputPath": "E:\\MyProjects\\PollyHttpClient\\Poq.Api.Utility.Http\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "E:\\MyProjects\\PollyHttpClient\\NuGet.Config",
+          "E:\\MyProjects\\NuGet.Config",
+          "C:\\Users\\azizk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net47",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://pkgs.dev.azure.com/VerveInfotech/Verve.Releases/_packaging/verve-core/nuget/v3/index.json": {},
+          "https://www.myget.org/F/poq-core/api/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net47": {
+            "targetAlias": "net47",
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "targetAlias": "net47",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2018.2.1, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Poq.Api.Utility": {
+              "target": "Package",
+              "version": "[1.20180817.2, )"
+            },
+            "Poq.Api.Utility.Log": {
+              "target": "Package",
+              "version": "[1.0.0.27, )"
+            },
+            "System.Net.Http": {
+              "include": "None",
+              "target": "Package",
+              "version": "[4.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

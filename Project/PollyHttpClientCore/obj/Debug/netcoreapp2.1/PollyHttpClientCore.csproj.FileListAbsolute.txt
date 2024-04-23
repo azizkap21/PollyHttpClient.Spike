@@ -1,0 +1,12 @@
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\bin\Debug\netcoreapp2.1\PollyHttpClientCore.deps.json
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\bin\Debug\netcoreapp2.1\PollyHttpClientCore.dll
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\obj\Debug\netcoreapp2.1\PollyHttpClientCore.csprojAssemblyReference.cache
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\obj\Debug\netcoreapp2.1\PollyHttpClientCore.csproj.CoreCompileInputs.cache
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\obj\Debug\netcoreapp2.1\PollyHttpClientCore.AssemblyInfoInputs.cache
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\obj\Debug\netcoreapp2.1\PollyHttpClientCore.AssemblyInfo.cs
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\obj\Debug\netcoreapp2.1\PollyHttpClientCore.csproj.CopyComplete
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\bin\Debug\netcoreapp2.1\PollyHttpClientCore.pdb
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\bin\Debug\netcoreapp2.1\Poq.Api.Utility.Http.dll
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\bin\Debug\netcoreapp2.1\Poq.Api.Utility.Http.pdb
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\obj\Debug\netcoreapp2.1\PollyHttpClientCore.dll
+E:\MyProjects\PollyHttpClient\PollyHttpClientCore\obj\Debug\netcoreapp2.1\PollyHttpClientCore.pdb

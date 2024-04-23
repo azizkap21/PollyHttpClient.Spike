@@ -1,0 +1,6 @@
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\netcoreapp2.1\Poq.Api.Utility.Http.deps.json
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\bin\Debug\netcoreapp2.1\Poq.Api.Utility.Http.dll
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\netcoreapp2.1\Poq.Api.Utility.Http.csprojAssemblyReference.cache
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\netcoreapp2.1\Poq.Api.Utility.Http.csproj.CoreCompileInputs.cache
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\netcoreapp2.1\Poq.Api.Utility.Http.AssemblyInfoInputs.cache
+E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\obj\Debug\netcoreapp2.1\Poq.Api.Utility.Http.AssemblyInfo.cs

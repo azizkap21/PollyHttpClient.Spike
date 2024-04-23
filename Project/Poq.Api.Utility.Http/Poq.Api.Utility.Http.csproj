@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net47</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JetBrains.Annotations" Version="2018.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Poq.Api.Utility" Version="1.20180817.2" />
+    <PackageReference Include="Poq.Api.Utility.Log" Version="1.0.0.27" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)'=='net47'">
+    <Compile Remove="PoqHeaderCollection.Core.cs" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)'=='netstandard2.0'">
+    <PackageReference Include="Microsoft.Extensions.Primitives" Version="2.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Workaround for https://github.com/Microsoft/dotnet/blob/master/releases/net472/KnownIssues/613745%20-%20Single-name%20references%20are%20removed%20by%20the%20SDK%20when%20targeting%204.7.2.md -->
+    <PackageReference Include="System.Net.Http" Version="4.3.3">
+      <ExcludeAssets>All</ExcludeAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>
