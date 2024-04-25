@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iqfttDKftxL2I2funUqskxMsUXILOl67hsGj8iZYpmQ=",
+  "Source": "Polly.Spike.Api",
+  "BasePath": "_content/Polly.Spike.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

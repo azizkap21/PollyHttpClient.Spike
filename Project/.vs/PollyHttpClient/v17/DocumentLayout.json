@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C415969-7CDA-4FBA-B48C-AA77C398DDF7}|Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\poq.api.utility.http\\poq.api.utility.http.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C415969-7CDA-4FBA-B48C-AA77C398DDF7}|Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj|solutionrelative:poq.api.utility.http\\poq.api.utility.http.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C415969-7CDA-4FBA-B48C-AA77C398DDF7}|Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\poq.api.utility.http\\poqhttpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C415969-7CDA-4FBA-B48C-AA77C398DDF7}|Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj|solutionrelative:poq.api.utility.http\\poqhttpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4CE2EB-E2A7-4D2B-B0A2-C40BBA62BF62}|Polly.Spike.Api\\Polly.Spike.Api.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\polly.spike.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4CE2EB-E2A7-4D2B-B0A2-C40BBA62BF62}|Polly.Spike.Api\\Polly.Spike.Api.csproj|solutionrelative:polly.spike.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EC6E2F-5FEC-418B-9145-9165DDC9546F}|TestHttpClient\\TestHttpClient.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\testhttpclient\\testhttpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4EC6E2F-5FEC-418B-9145-9165DDC9546F}|TestHttpClient\\TestHttpClient.csproj|solutionrelative:testhttpclient\\testhttpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44170C84-5739-4D12-9906-7DC17DF43494}|PollyHttpClientCore\\PollyHttpClientCore.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\pollyhttpclientcore\\pollyhttpclientcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44170C84-5739-4D12-9906-7DC17DF43494}|PollyHttpClientCore\\PollyHttpClientCore.csproj|solutionrelative:pollyhttpclientcore\\pollyhttpclientcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4CE2EB-E2A7-4D2B-B0A2-C40BBA62BF62}|Polly.Spike.Api\\Polly.Spike.Api.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\polly.spike.api\\polly.spike.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C4CE2EB-E2A7-4D2B-B0A2-C40BBA62BF62}|Polly.Spike.Api\\Polly.Spike.Api.csproj|solutionrelative:polly.spike.api\\polly.spike.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\fragilewebsite\\fragilewebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|solutionrelative:fragilewebsite\\fragilewebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44170C84-5739-4D12-9906-7DC17DF43494}|PollyHttpClientCore\\PollyHttpClientCore.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\pollyhttpclientcore\\customhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44170C84-5739-4D12-9906-7DC17DF43494}|PollyHttpClientCore\\PollyHttpClientCore.csproj|solutionrelative:pollyhttpclientcore\\customhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\fragilewebsite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|solutionrelative:fragilewebsite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\fragilewebsite\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|solutionrelative:fragilewebsite\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|e:\\myprojects\\pollyhttpclient.spike\\project\\fragilewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA42DD8A-3656-4ADA-8D81-1FD6496C0D27}|FragileWebsite\\FragileWebsite.csproj|solutionrelative:fragilewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoqHttpResponse.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\PoqHttpResponse.cs",
+              "RelativeDocumentMoniker": "Poq.Api.Utility.Http\\PoqHttpResponse.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\PoqHttpResponse.cs",
+              "RelativeToolTip": "Poq.Api.Utility.Http\\PoqHttpResponse.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIA5wC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:50:23.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Polly.Spike.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Polly.Spike.Api\\Program.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Polly.Spike.Api\\Program.cs",
+              "RelativeToolTip": "Polly.Spike.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:49:24.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestHttpClient",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\TestHttpClient\\TestHttpClient.csproj",
+              "RelativeDocumentMoniker": "TestHttpClient\\TestHttpClient.csproj",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\TestHttpClient\\TestHttpClient.csproj",
+              "RelativeToolTip": "TestHttpClient\\TestHttpClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T22:47:13.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Polly.Spike.Api",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Polly.Spike.Api\\Polly.Spike.Api.csproj",
+              "RelativeDocumentMoniker": "Polly.Spike.Api\\Polly.Spike.Api.csproj",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Polly.Spike.Api\\Polly.Spike.Api.csproj",
+              "RelativeToolTip": "Polly.Spike.Api\\Polly.Spike.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T22:37:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomHttpClient.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\CustomHttpClient.cs",
+              "RelativeDocumentMoniker": "PollyHttpClientCore\\CustomHttpClient.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\CustomHttpClient.cs",
+              "RelativeToolTip": "PollyHttpClientCore\\CustomHttpClient.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAAARwCMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:15:50.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PollyHttpClientCore.csproj",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\PollyHttpClientCore.csproj",
+              "RelativeDocumentMoniker": "PollyHttpClientCore\\PollyHttpClientCore.csproj",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\PollyHttpClientCore.csproj*",
+              "RelativeToolTip": "PollyHttpClientCore\\PollyHttpClientCore.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T22:09:57.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FragileWebsite.csproj",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\FragileWebsite\\FragileWebsite.csproj",
+              "RelativeDocumentMoniker": "FragileWebsite\\FragileWebsite.csproj",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\FragileWebsite\\FragileWebsite.csproj",
+              "RelativeToolTip": "FragileWebsite\\FragileWebsite.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T22:08:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Poq.Api.Utility.Http.csproj",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj",
+              "RelativeDocumentMoniker": "Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj",
+              "RelativeToolTip": "Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T22:01:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\FragileWebsite\\Startup.cs",
+              "RelativeDocumentMoniker": "FragileWebsite\\Startup.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\FragileWebsite\\Startup.cs",
+              "RelativeToolTip": "FragileWebsite\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:38:01.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\FragileWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "FragileWebsite\\Program.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\FragileWebsite\\Program.cs",
+              "RelativeToolTip": "FragileWebsite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:37:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\FragileWebsite\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "FragileWebsite\\Controllers\\ValuesController.cs",
+              "ToolTip": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\FragileWebsite\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "FragileWebsite\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIApwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:37:28.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

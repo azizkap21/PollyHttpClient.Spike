@@ -1,0 +1,6 @@
+@Polly.Spike.Api_HostAddress = http://localhost:5234
+
+GET {{Polly.Spike.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

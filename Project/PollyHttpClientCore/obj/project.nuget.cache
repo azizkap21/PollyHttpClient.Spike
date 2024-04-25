@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "8d7H4mI9Juw9EzJa61+mneFRXrHDsdcahzVC1CQPY+kxBVF9I4etIyVS3JlzSaa6PxzudRNC5C2xjtIC87c73g==",
+  "success": false,
+  "projectFilePath": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\PollyHttpClientCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azizk\\.nuget\\packages\\jetbrains.annotations\\2023.3.0\\jetbrains.annotations.2023.3.0.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.http\\2.1.1\\microsoft.extensions.http.2.1.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.http.polly\\2.1.1\\microsoft.extensions.http.polly.2.1.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\polly\\6.0.1\\polly.6.0.1.nupkg.sha512",
+    "C:\\Users\\azizk\\.nuget\\packages\\polly.extensions.http\\2.0.1\\polly.extensions.http.2.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Poq.Api.Utility. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, nuget.org, VerveCore",
+      "libraryId": "Poq.Api.Utility",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Poq.Api.Utility.Log. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, nuget.org, VerveCore",
+      "libraryId": "Poq.Api.Utility.Log",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

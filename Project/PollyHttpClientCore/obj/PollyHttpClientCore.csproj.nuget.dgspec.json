@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\PollyHttpClientCore.csproj": {}
+  },
+  "projects": {
+    "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\PollyHttpClientCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\PollyHttpClientCore.csproj",
+        "projectName": "PollyHttpClientCore",
+        "projectPath": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\PollyHttpClientCore.csproj",
+        "packagesPath": "C:\\Users\\azizk\\.nuget\\packages\\",
+        "outputPath": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\PollyHttpClientCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "E:\\MyProjects\\NuGet.Config",
+          "C:\\Users\\azizk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://pkgs.dev.azure.com/VerveInfotech/Verve.Releases/_packaging/verve-core/nuget/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj": {
+                "projectPath": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2023.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj",
+        "projectName": "Poq.Api.Utility.Http",
+        "projectPath": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\Poq.Api.Utility.Http.csproj",
+        "packagesPath": "C:\\Users\\azizk\\.nuget\\packages\\",
+        "outputPath": "E:\\MyProjects\\PollyHttpClient.Spike\\Project\\Poq.Api.Utility.Http\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "E:\\MyProjects\\NuGet.Config",
+          "C:\\Users\\azizk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://pkgs.dev.azure.com/VerveInfotech/Verve.Releases/_packaging/verve-core/nuget/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2023.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Poq.Api.Utility": {
+              "target": "Package",
+              "version": "[1.20180817.2, )"
+            },
+            "Poq.Api.Utility.Log": {
+              "target": "Package",
+              "version": "[1.0.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

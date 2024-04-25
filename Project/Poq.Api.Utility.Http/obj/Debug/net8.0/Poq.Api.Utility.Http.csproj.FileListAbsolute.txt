@@ -1,0 +1,6 @@
+E:\MyProjects\PollyHttpClient.Spike\Project\Poq.Api.Utility.Http\obj\Debug\net8.0\Poq.Api.Utility.Http.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProjects\PollyHttpClient.Spike\Project\Poq.Api.Utility.Http\obj\Debug\net8.0\Poq.Api.Utility.Http.AssemblyInfoInputs.cache
+E:\MyProjects\PollyHttpClient.Spike\Project\Poq.Api.Utility.Http\obj\Debug\net8.0\Poq.Api.Utility.Http.AssemblyInfo.cs
+E:\MyProjects\PollyHttpClient.Spike\Project\Poq.Api.Utility.Http\obj\Debug\net8.0\Poq.Api.Utility.Http.csproj.CoreCompileInputs.cache
+E:\MyProjects\PollyHttpClient.Spike\Project\Poq.Api.Utility.Http\obj\Debug\net8.0\Poq.Api.Utility.Http.sourcelink.json
+E:\MyProjects\PollyHttpClient.Spike\Project\Poq.Api.Utility.Http\obj\Debug\net8.0\Poq.Api.Utility.Http.csproj.AssemblyReference.cache

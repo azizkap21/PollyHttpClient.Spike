@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0</TargetFrameworks>
+	  <LanguageVersion>9.0</LanguageVersion>
+	  <Nullable>enable</Nullable>
+	  <ImplicitUsings>enable</ImplicitUsings>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JetBrains.Annotations" Version="2023.3.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Poq.Api.Utility" Version="1.20180817.2" />
+    <PackageReference Include="Poq.Api.Utility.Log" Version="1.0.0.27" />
+  </ItemGroup>
+
+ 
+
+</Project>

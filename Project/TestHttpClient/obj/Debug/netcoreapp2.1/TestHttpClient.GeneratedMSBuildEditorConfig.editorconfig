@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TestHttpClient
+build_property.ProjectDir = E:\MyProjects\PollyHttpClient.Spike\Project\TestHttpClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
