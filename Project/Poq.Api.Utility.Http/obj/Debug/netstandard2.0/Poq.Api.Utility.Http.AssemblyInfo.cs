@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poq.Api.Utility.Http")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdca35d75cc89e17c4be55d4bdd60e0ac832abfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poq.Api.Utility.Http")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poq.Api.Utility.Http")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Polly.Spike.Api.props" />
+</Project>

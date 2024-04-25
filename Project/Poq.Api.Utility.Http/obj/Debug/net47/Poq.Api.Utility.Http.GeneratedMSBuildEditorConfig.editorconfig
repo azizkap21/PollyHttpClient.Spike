@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = Poq.Api.Utility.Http
-build_property.ProjectDir = E:\MyProjects\PollyHttpClient\Poq.Api.Utility.Http\
+build_property.ProjectDir = E:\MyProjects\PollyHttpClient.Spike\Project\Poq.Api.Utility.Http\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

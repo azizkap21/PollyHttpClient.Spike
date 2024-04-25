@@ -4,7 +4,7 @@ using System.Net;
 using System.Runtime.Serialization;
 using JetBrains.Annotations;
 using Newtonsoft.Json;
-using Poq.Api.Utility.Service;
+//using Poq.Api.Utility.Service;
 
 namespace Poq.Api.Utility.Http
 {

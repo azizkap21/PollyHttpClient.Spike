@@ -7,6 +7,7 @@ using System.Net.Http;
 using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
+//using System.Xml;
 using JetBrains.Annotations;
 using Newtonsoft.Json;
 using Poq.Api.Utility.Http;
